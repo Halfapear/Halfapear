@@ -2,7 +2,7 @@
 <img src="https://count.getloli.com/get/@Halfapear?theme=rule34" alt="Halfapear">
 </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halfapear" /> </div>
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Halfapear&show_icons=true&theme=tokyonight" /> </div>
