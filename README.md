@@ -1,27 +1,21 @@
-### Zhaobai Jiang · 蒋昭柏
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Halfapear&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Halfapear" />
+</div>
 
-<sub>B.Eng. in Electronic Information Engineering @ BUPT · incoming M.S. @ ICT, CAS · Beijing</sub>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Halfapear&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Halfapear?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+</div>
 
-[Email](mailto:1783148122@bupt.edu.cn) · [Website](https://halfapear.github.io) · [GitHub](https://github.com/Halfapear)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Halfapear&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halfapear&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
 
-I work at the intersection of embodied AI and networked systems: robot learning on one side, 5G/edge orchestration on the other.
+<div align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Halfapear&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</div>
 
-**Selected work**
-
-- **[BuptInternationalSchool](https://github.com/Halfapear/BuptInternationalSchool)** — community-maintained course and resource hub for BUPT International College; 50+ stars, 3 forks.
-- **[QQmailSkin](https://github.com/Halfapear/QQmailSkin)** — glassmorphism skin for QQ Mail and Outlook, published on Greasy Fork; Tampermonkey userscript, MIT, no telemetry.
-- **[hamilton-world-atlas](https://github.com/Halfapear/hamilton-world-atlas)** — interactive world map for Hamilton productions and tours; static HTML/JS, JSON data layer, Python build pipeline.
-- **[ESP32EspnowAndBle](https://github.com/Halfapear/ESP32EspnowAndBle)** — ESP-NOW + BLE demos on ESP32, with wiring notes and a step-by-step write-up.
-
-**Currently**
-
-- M.S. prep at ICT, CAS — embodied AI / VLA and robot learning.
-- Thesis: cloud-based wireless network orchestration for robots (OAI 5G SA + ROS 2 Jazzy + Gazebo).
-- Exploring time-series world models for forecasting at Siemens DAI R AIX-CN.
-
-**Awards**
-
-- National Scholarship, 2023–2024 and 2024–2025
-- Xiaomi Scholarship, 2025–2026 (top ~0.17%)
-
-Open to collaborations on robot learning, edge systems, and developer tooling.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,linux,pytorch,docker,git,bash" alt="Tech stack" />
+</div>
