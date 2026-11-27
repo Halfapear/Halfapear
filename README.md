@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Halfapear&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Halfapear" />
-</div>
-
-<div align="center">
-  <img src="https://count.getloli.com/get/@Halfapear?theme=cat-girls-yay" alt="Moe counter" />
+  <img src="https://count.getloli.com/get/@Halfapear?theme=rule34" alt="Moe counter" />
 </div>
 
 <div align="center">
@@ -17,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halfapear&theme=tokyonight" alt="Profile summary" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halfapear&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </div>
 
 <div align="center">
