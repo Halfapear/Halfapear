@@ -14,6 +14,7 @@
 
 <div align="center">
   <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halfapear&theme=tokyonight&utcOffset=8" alt="Productive time" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halfapear&theme=tokyonight" alt="Top languages by repo" />
 </div>
 
 <div align="center">
